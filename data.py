@@ -1,13 +1,13 @@
-streamlit as st 
-pandas as pd
-numpy as np
-matplotlib as plt
-seaborn as sns
-plotly.express as px
-missingno as msno
-altair as alt
-folium
-pydeck as pdk
+import streamlit as st 
+import pandas as pd
+import numpy as np
+import matplotlib as plt
+import seaborn as sns
+import plotly.express as px
+import missingno as msno
+import altair as alt
+import folium
+import pydeck as pdk
 from folium.plugins import HeatMap
 
 
